@@ -1,5 +1,5 @@
 ## cancer_type_classification_from_sparse_SNV_data
-Scripts used in the **'Cancer type classification in liquid biopsies based on sparse mutational profiles enabled through data augmentation and integration'** manuscript.
+Scripts used in the **'Cancer type classification in liquid biopsies based on sparse mutational profiles enabled through data augmentation and integration'** manuscript (https://biorxiv.org/cgi/content/short/2021.03.09.434391v1).
 
 
 ### Data augmentation on sparse data
