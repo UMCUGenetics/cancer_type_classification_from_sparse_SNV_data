@@ -9,7 +9,7 @@ Scripts used in the **'Cancer type classification in liquid biopsies based on sp
   Individual sparse samples then need to be merged into a final input data matrix (see the 10% data example matrices in 'data/').
      
 ### Classification models
-
+  The available classification models are extensions of the baseline model which is available here under Apache 2.0 license: https://github.com/ICGC-TCGA-PanCancer/TumorType-WGS/tree/master/DNN-Model 
 
 ### Feature importance assessment
   Scripts are based on https://github.com/ankurtaly/Integrated-Gradients and were adjusted for the models used in this work
